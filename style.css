@@ -1,0 +1,31 @@
+body{
+    background: rgb(29, 29, 29);
+    color: blueviolet;
+    margin: 0px;
+    font-family: "Playfair Display", serif;
+}
+
+header {
+    border-bottom: solid 2px rgb(39, 184, 140);
+    padding: 40px;
+    font-size: 32px;
+    color: rgb(25, 136, 112);
+}
+
+section {
+    background: rgb(184,156,213);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content:center;
+}
+
+.titulo-video{
+    margin: 3%;
+    font-size: 20px;
+
+}
+img{
+    height: 200px;
+
+}
